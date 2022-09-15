@@ -1,5 +1,5 @@
 {
-  "name": "zen-js",
+  "name": "@zen/js",
   "version": "1.0.0",
   "description": "This package is a reflection of clean code book and on and how to transform bad code into good code. Also its a number  of js design principles that help you to understand and  use the language effectively.",
   "main": "index.js",
