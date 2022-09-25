@@ -1,4 +1,4 @@
-const rules = console.log(
+const owlEye = console.log(
   "\n",
   "*********** Clean Code Rules ***********",
   "\n",
@@ -17,7 +17,7 @@ const rules = console.log(
   "\n",
   "7.Always make place for error handling.",
   "\n",
-  "8.Set boundaries,  and  be careful when you user third party code.",
+  "8.Set boundaries, and be careful when you use third party code.",
   "\n",
   "9.Don't ignore writing test, its the real shortcut.",
   "\n",
@@ -26,4 +26,4 @@ const rules = console.log(
   "11.Software Systems should separate the startuo process",
   "\n"
 )
-module.exports = { rules }
+module.exports = { owlEye }
