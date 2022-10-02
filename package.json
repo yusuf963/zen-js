@@ -1,7 +1,7 @@
 {
   "name": "owl-eye",
   "version": "1.0.1",
-  "description": "This package is a reflection of clean code book and on and how to transform bad code into good code. Also its a number  of js design principles that help you to understand and  use the language effectively.",
+  "description": "This package is a reflection of clean code book and on and how to transform bad code into good code. Also it's a number of design principles that help you to understand and use the language effectively.",
   "main": "index.js",
   "scripts": {
     "test": "npm text"
